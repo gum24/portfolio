@@ -1,4 +1,4 @@
-<header> ### CTA Analysis App </header>
+<header> ### CTA Analysis App ###</header>
 
 <p> This project utilizes real CTA ridership data between 2000-2021. To display relevant data to the user, including:<br><br>
 
