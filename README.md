@@ -1,2 +1,2 @@
 # portfolio
-School and personal projects showcasing my work
+School and personal projects showcasing my work.
