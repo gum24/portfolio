@@ -1,1 +1,3 @@
-<header></header>
+<header>Keno!</header>
+
+<p> Keno is a number-drawing lottery game played in many states in the US. A player selects a chosen number of numbers called "spots" on an 80 spot board. Then for a number of draws each costing $1 to play, 20 spots are chosen. For each spot picked correctly, the player is rewarded. Our task for this project was to implement a Maven/Javafx application utilizing the North Carolina Keno rules. My version of the application uses different colors to represent selected/matched/unmatched spots and has a theme of cats dressed as 1920's mobsters. If that theme isn't to the user's liking, a Hello Kitty version is also available by pressing "New Look" in the menu.
